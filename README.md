@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I am Muhammad Amin with one year of experience in the Full Stack Development sphere, and over seven years of experience in Math and Physics.
+I'm Muhammad Amin, with one year of experience in Full Stack Development and over seven years in Math and Physics.
 
-- 🔭 I’m currently working on the web form of the 'Shop System' app with Next.js, which recently completed its desktop version.
-- 🌱 I’m currently learning Next.js, ML and Python.
-- 💬 Ask me about Math, Physics, IT, ... everything related to science.
-- 📫 How to reach me:
-  Email: bimus2022@gmail.com
-  Phone: (99) 109-01-00
+- 🔭 Currently working on the web form of the 'Shop System' app with Next.js, having recently completed its desktop version.
+- 🌱 Learning Next.js, ML, and Python.
+- 💬 Ask me about Math, Physics, IT, or anything related to science.
+- 📫 Reach me via email at bimus2022@gmail.com or phone at (99) 109-01-00.
 - ⚡ Fun fact: The worst thing is to die without doing anything!
