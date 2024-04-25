@@ -5,5 +5,7 @@ I am Muhammad Amin with one year of experience in the Full Stack Development sph
 - 🔭 I’m currently working on web form of "Shop System" App with NextJs which has completed desktop one recently
 - 🌱 I’m currently learning Next JS, ML and Python.
 - 💬 Ask me about Math, Physics, ... everything related to science.
-- 📫 How to reach me: bimus2022@gmail.com
+- 📫 How to reach me:
+  Email: bimus2022@gmail.com
+  Phone: (99) 109-01-00
 - ⚡ Fun fact: The worst thing is to die without doing anything!
