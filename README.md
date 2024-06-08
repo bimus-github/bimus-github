@@ -4,11 +4,11 @@ I'm Muhammad Amin, with one year of experience in Full Stack Development and ove
 
 - 🔭 Currently working on a platform for managing and selling phones.
   * On the one hand, the platform helps sellers manage and sell their products, and on the other hand, it helps buyers find products.
-- 🌱 Learning Go/Golang.
+- 🌱 Learning: Go/Golang.
 - 👍 Good at:
   * Languages and Frameworks: JS/TS, React/React Native, NodeJS, ExpressJS, ElectronJS, Phyton, Go
   * Databases: MongoDB, PostGRESQL, Firebase
-  * Libraries: All libraries related to Languages, Frameworks, and Databases (eg: Redux, TanStack, MUI, TailwindCss, ShadCN/UI ...  )
+  * Libraries: All libraries related to Languages, Frameworks, and Databases (eg: Redux, TanStack, MUI, TailwindCss, ShadCN/UI and more )
 - 💬 Ask me about IT, Math, Physics, or anything related to science.
 - 📫 Reach me via email at bimus2022@gmail.com or phone at (99) 109-01-00.
 - ⚡ Fun fact: The worst thing is to die without doing anything!
