@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Muhammad Amin, with one year of experience in Full Stack Development and over seven years in Math and Physics.
+I'm Muhammad Amin, with one two of experience in Full Stack Development and over seven years in Math and Physics.
 
 - 🔭 Currently working on a platform for managing and selling phones.
   * On the one hand, the platform helps sellers manage and sell their products, and on the other hand, it helps buyers find products.
